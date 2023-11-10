@@ -1,16 +1,19 @@
 # dotfiles-hyprland
 
-Configuration (dotfiles) Hyprland 🇫
+> Configuration (dotfiles) Hyprland 🇫🇷
 
 ## Hyprland 
-Fichier hyprland : hyprland.conf
-Dossier des scripts : dotfiles_config
+> Fichier hyprland : hyprland.conf
+
+> Dossier des scripts : dotfiles_config
+    
     -> cava.sh (Visualisation CAVA dans waybar bottom)
+    
     -> changeWallpaper2 et wallpaper-switcher2 ( Changement de fond d'écran avec swww
 
     -> mediaplayer.sh (Visualisation Spotify waybar top + control)
 
-Dépendances : 
+> Dépendances : 
 - rofi
 - kitty
 - firefox
